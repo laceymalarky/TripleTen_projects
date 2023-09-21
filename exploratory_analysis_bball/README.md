@@ -20,7 +20,7 @@ This app performs web scraping of NCAA Division 1 men's basketball team statisti
 * Data Source: https://www.sports-reference.com/cbb/seasons/men/2023-ratings.html
   * *The year should automatically update in the python source code each season.*
 
-## Images
+## Screenshots
 
 ![Offensive and Defensive Ratings](/exploratory_analysis_bball/images/eda_scatterplot.png)
 
