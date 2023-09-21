@@ -22,6 +22,6 @@ This app performs web scraping of NCAA Division 1 men's basketball team statisti
 
 ## Images
 
-![Offensive and Defensive Ratings](/images/eda_scatterplot.png)
+![Offensive and Defensive Ratings](/exploratory_analysis_bball/images/eda_scatterplot.png)
 
-![Conference Comparisons](/TripleTen_projects/exploratory_analysis_bball/images/eda_histogram.png)
+![Conference Comparisons](/exploratory_analysis_bball/images/eda_histogram.png)
