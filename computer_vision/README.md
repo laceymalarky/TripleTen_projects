@@ -3,6 +3,9 @@
 ## Project Overview
 The supermarket chain Good Seed would like to explore whether Data Science can help them adhere to alcohol laws by making sure they do not sell alcohol to people underage. Their shops are equipped with cameras in the checkout area which are triggered when a person is buying alcohol We will use computer vision methods to determine the age of a person from a photo by training a model using a set of photographs of people with their ages indicated.
 
+## Technologies
+Neural Networks, Data Generators, ResNet50 Architecture, Optimizers, Augmentations, GPU
+
 ## Project Conclusions
 - The final model has a MAE on the test set of 6.09, so there is a +/- 6 year difference between the actual and predicted values on average.
 - This model might not be the best solution to help the customer ensure they do not sell alcohol to people underage since the error for this model is relatively large.
@@ -12,9 +15,6 @@ The supermarket chain Good Seed would like to explore whether Data Science can h
   - Additional augmentations
   - Introduce additional layers with normalization methods
   - Try other optimizers (e.g., AdamW)
-
-## Technologies
-Neural Networks, Data Generators, ResNet50 Architecture, Optimizers, Augmentations, GPU
 
 ## Requirements
 Python libraries: pandas, numpy, matplotlib, PIL, tensorflow
