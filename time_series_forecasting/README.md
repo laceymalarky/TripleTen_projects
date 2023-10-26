@@ -2,7 +2,7 @@
 ## Project Overview
 A Taxi company provided historical data on taxi orders at airports. To attract more drivers during peak hours, I built a model to predict the amount of taxi orders for the next hour.
 
-## Technologies
+## Machine Learning Skills/Technologies
 Regression models (Linear Regression, Decision Tree, Random Forest, XGBoost), Cross-validation, Autocorellation, Hyperparameter tuning, Trends and Seasonality Analysis
 
 ## Project Conclusions
