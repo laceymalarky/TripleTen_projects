@@ -1,7 +1,7 @@
 # TripleTen_projects
 Some of the projects I worked on while attending the TripleTen Data Scientist Bootcamp.
 
-| Project Number | Title | Description |
+| # | Title | Description |
 | ----------- | ----------- | ----------- |
 | 1 | Customer Churn |  | 
 | 2 | [Time Series Forecasting](https://github.com/laceymalarky/TripleTen_projects/tree/main/time_series_forecasting) | Developed a model to predict the number of taxi orders for the next hour. |
