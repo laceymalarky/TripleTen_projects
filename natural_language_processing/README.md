@@ -15,7 +15,7 @@ NLP, Text Vectorization, Lemmatization, TF-IDF, Word Embeddings, Regression mode
 ![image](https://github.com/laceymalarky/TripleTen_projects/assets/97048468/7f1c663f-dc4d-48c6-ab3e-ea1db1daad2c)
 
 ## Requirements
-Python libraries: pandas, numpy, matplotlib, seaborn, sklearn, nltk, spacy
+Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, nltk, spacy
 
 ## Data Description:
 - `/datasets/imdb_reviews.tsv`
