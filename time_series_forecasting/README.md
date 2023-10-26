@@ -11,7 +11,7 @@ Regression models (Linear Regression, Decision Tree, Random Forest, XGBoost), Cr
 ![image](https://github.com/laceymalarky/TripleTen_projects/assets/97048468/9fafeb1a-72ac-436c-9a26-c0a0fb5a7746)
  
 ## Requirements
-Python libraries: pandas, numpy, matplotlib, statsmodels, sklearn, xgboost
+Python libraries: pandas, numpy, matplotlib, statsmodels, scikit-learn, xgboost
 
 ## Data Description:
 - training and testing set of ##
