@@ -1,19 +1,19 @@
 # Time Series Forecasting
-## Introduction
-Sweet Lift Taxi company has collected historical data on taxi orders at airports. To attract more drivers during peak hours, we need to predict the amount of taxi orders for the next hour. Build a model for such a prediction.
+## Project Overview
+A Taxi company provided historical data on taxi orders at airports. To attract more drivers during peak hours, I built a model to predict the amount of taxi orders for the next hour.
 
-Goals:
-- The RMSE metric on the test set should not be more than 48.
+## Technologies
+Regression models (Linear Regression, Decision Tree, Random Forest, XGBoost), Cross-validation, Autocorellation, Hyperparameter tuning, Trends and Seasonality Analysis
 
-Data source:
-- `taxi.csv`
+## Project Conclusions
+- Developed forecasting models to predict the number of taxi orders for the next hour, achieving a 3% improvement the evaluation metric (RMSE).
+- Performed feature engineering to optimize the data for time series modeling.
+ 
+## Requirements
+Python libraries: pandas, numpy, matplotlib, statsmodels, sklearn, xgboost
 
-Data description:
-- `datetime` — timestamp
-- `num_orders` — number of orders
-
-Plan:
-1. Download the data and resample it by one hour.
-2. Analyze the data.
-3. Train different models with different hyperparameters.
-4. Test the data using the test sample and provide conclusions.
+## Data Description:
+- training and testing set of ##
+  - `taxi.csv`
+    - `datetime` — timestamp
+    - `num_orders` — number of orders
