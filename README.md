@@ -2,7 +2,7 @@
 Some of the projects I worked on while attending the TripleTen Data Scientist Bootcamp.
 
 | # | Title | Description |
-| ----------- | ----------- | ----------- |
+| ----------- | ------------------ | ----------- |
 | 1 | Customer Churn |  | 
 | 2 | [Time Series Forecasting](https://github.com/laceymalarky/TripleTen_projects/tree/main/time_series_forecasting) | Developed a model to predict the number of taxi orders for the next hour. |
 | 3 | [Used Car Value](https://github.com/laceymalarky/TripleTen_projects/tree/main/gradient_boosting_methods) | Developed a gradient boosting model to predict the market value of a used car for use in an app to attract new customers. |
