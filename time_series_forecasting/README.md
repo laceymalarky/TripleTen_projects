@@ -17,3 +17,5 @@ Python libraries: pandas, numpy, matplotlib, statsmodels, sklearn, xgboost
   - `taxi.csv`
     - `datetime` — timestamp
     - `num_orders` — number of orders
+
+![image](https://github.com/laceymalarky/TripleTen_projects/assets/97048468/9fafeb1a-72ac-436c-9a26-c0a0fb5a7746)
