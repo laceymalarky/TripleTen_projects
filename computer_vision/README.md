@@ -7,14 +7,9 @@ The supermarket chain Good Seed would like to explore whether Data Science can h
 Neural Networks, Data Generators, ResNet50 Architecture, Optimizers, Augmentations, GPU
 
 ## Project Conclusions
-- The final model has a MAE on the test set of 6.09, so there is a +/- 6 year difference between the actual and predicted values on average.
-- This model might not be the best solution to help the customer ensure they do not sell alcohol to people underage since the error for this model is relatively large.
-- Possible model improvements:
-  - The model could be improved by increasing the amount of training data. We should also make sure that the data is diverse and representative so it captures complexities of real-world data.
-  - Try other computer vision models and continue to tune the hyperparameters of this model and compare the results.
-  - Additional augmentations
-  - Introduce additional layers with normalization methods
-  - Try other optimizers (e.g., AdamW)
+- Developed a [computer vision model](https://github.com/laceymalarky/TripleTen_projects/blob/main/computer_vision/facial_age_detection.ipynb) to determine the age of a person from a photo, achieving an 20% improvement in MAE.
+- The model could predict ages with an average error of 6 years.
+- Performed augmentations to optimize the images in the training set for modeling.
 
 ## Requirements
 Python libraries: pandas, numpy, matplotlib, PIL, tensorflow
@@ -26,5 +21,3 @@ Python libraries: pandas, numpy, matplotlib, PIL, tensorflow
   - /datasets/faces/labels.csv
     - `file_name` - name of the file in the corresponding folder with photos
     - `real_age` - actual age of the person in the photo
-
-
