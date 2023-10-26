@@ -14,7 +14,7 @@ Regression models (Linear Regression, Decision Tree, Random Forest, XGBoost, Lig
 ![image](https://github.com/laceymalarky/TripleTen_projects/assets/97048468/cb6b44c2-71e8-4ebf-b85d-34151cc8deb9)
  
 ## Requirements
-Python libraries: pandas, numpy, matplotlib, sklearn, xgboost, lightgbm, catboost
+Python libraries: pandas, numpy, matplotlib, scikit-learn, xgboost, lightgbm, catboost
 
 ## Data Description:
 - training and testing set of 245,567 car records
