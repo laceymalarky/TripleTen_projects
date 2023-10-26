@@ -2,7 +2,7 @@
 ## Project Overview
 A used car sales service is developing an app to attract new customers. In that app, a customer can quickly find out the market value of a car. They provided access to historical data including technical specifications, trim versions, and prices. I will build a regression model to determine a car's value.
 
-## Technologies
+## Machine Learning Skills/Technologies
 Regression models (Linear Regression, Decision Tree, Random Forest, XGBoost, LightGBM, CatBoost), Cross-validation, Hyperparameter tuning, Feature Encoding
 
 ## Project Conclusions
