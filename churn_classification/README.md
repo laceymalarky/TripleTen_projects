@@ -1,4 +1,4 @@
-# Forecasting Customer Churn
+# Forecasting Client Churn
 ## Project Overview
 A telecom operator would like to be able to forecast their churn of clients. If it's discovered that a user is planning to leave, they will be offered promotional codes and special plan options. They provided access to some of their clientele's personal data, including information about their plans and contracts. I built a classification model to identify clients that will churn in the future and loyal customers that will not churn.
 
