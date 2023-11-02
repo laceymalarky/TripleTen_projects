@@ -6,7 +6,7 @@ A telecom operator would like to be able to forecast their churn of clients. If 
 Classification models (Logistic Regression, Decision Tree, Random Forest, XGBoost, CatBoost), Cross-validation, Hyperparameter tuning, Feature Encoding, Feature Engineering, Upsampling (SMOTE)
 
 ## Project Conclusions
-- Developed a predictive [classification model](URL) that resulted in a 12% improvement in performance, achieving a 0.93 AUC-ROC score and an accuracy of 88%, enabling the company to proactively address customer churn and retain valuable clients.
+- Developed a predictive [classification model](https://github.com/laceymalarky/TripleTen_projects/blob/main/churn_classification/churn_model.ipynb) that resulted in a 12% improvement in performance, achieving a 0.93 AUC-ROC score and an accuracy of 88%, enabling the company to proactively address customer churn and retain valuable clients.
 - Performed time series analysis to reveal that the churn rate increased from 8% to 47% over the past 6 years with monthly seasonal swings of 9%.
 - Analyzed and pre-processed raw data, applied feature encoding and engineering to prepare features for modeling.
 
