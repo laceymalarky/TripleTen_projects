@@ -8,8 +8,10 @@ Classification models (Logistic Regression, Decision Tree, Random Forest, XGBoos
 ## Project Conclusions
 - Developed a predictive [classification model](URL) that resulted in a 12% improvement in performance, achieving a 0.93 AUC-ROC score and an accuracy of 88%, enabling the company to proactively address customer churn and retain valuable clients.
 - Performed time series analysis to reveal that the churn rate increased from 8% to 47% over the past 6 years with monthly seasonal swings of 9%.
- - Analyzed and pre-processed raw data, applied feature encoding and engineering to prepare features for modeling.
-  
+- Analyzed and pre-processed raw data, applied feature encoding and engineering to prepare features for modeling.
+
+![image](https://github.com/laceymalarky/TripleTen_projects/assets/97048468/09977dad-87ff-4602-b58b-10d00895bc4b)
+ 
 ## Requirements
 Python libraries: pandas, numpy, matplotlib, seaborn, statsmodels, imblearn, scikit-learn, xgboost, catboost
 
