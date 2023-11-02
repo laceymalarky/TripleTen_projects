@@ -7,7 +7,7 @@ The supermarket chain Good Seed would like to explore whether Data Science can h
 Neural Networks, Data Generators, ResNet50 Architecture, Optimizers, Augmentations, GPU
 
 ## Project Conclusions
-- Developed a [computer vision model](https://github.com/laceymalarky/TripleTen_projects/blob/main/computer_vision/facial_age_detection.ipynb) to determine the age of a person from a photo, achieving an 25% improvement in MAE.
+- Developed a [computer vision model](https://github.com/laceymalarky/TripleTen_projects/blob/main/computer_vision/facial_age_detection_model.ipynb) to determine the age of a person from a photo, achieving an 25% improvement in MAE.
 - The model could predict ages with an average error of 6 years.
 - Performed augmentations to optimize the images in the training set for modeling.
 
